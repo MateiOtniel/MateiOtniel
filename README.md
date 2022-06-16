@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Matei Otniel! 👋
+
+🔭 I'm currently studying Computer Science at Babes-Bolyai University (1/3)
+📫 How to reach me: [Instagram - @mateiotniel](https://www.instagram.com/mateiotniel/) [LinkedIn](https://www.linkedin.com/in/otniel-matei-bb0b5b22a/)
+
 
 <!--
 **MateiOtniel/MateiOtniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
