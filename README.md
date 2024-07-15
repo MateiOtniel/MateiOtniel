@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matei Otniel-Daniel</h1>
-<h3 align="center">A motivated student to bring value in this world.</h3>
+<h3 align="center">A motivated developer to bring value in this world.</h3>
 
 - 🌱 I hold a degree in Computer Science from Babeș-Bolyai University, Cluj-Napoca.
 
