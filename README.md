@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matei Otniel-Daniel</h1>
 <h3 align="center">A motivated student to bring value in this world.</h3>
 
-- 🌱 I’m currently learning **Computer Science at Babes-Bolyai University (1/3 ✓, 2/3 ✓, 3/3 ongoing)**
+- 🌱 I hold a degree in Computer Science from Babeș-Bolyai University, Cluj-Napoca.
 
 - 📫 How to reach me **matei.otniel20@gmail.com**
 
