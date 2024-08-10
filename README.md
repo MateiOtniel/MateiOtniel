@@ -2,7 +2,7 @@
 <h3 align="center">A motivated developer focused on creating impactful solutions through technology.</h3>
 🎓 I hold a Bachelor's degree in Computer Science from Babeș-Bolyai University, Cluj-Napoca.
 
-🌟 I have hands-on experience in Java, Spring Boot, OAuth2.0, and Cloud Deployment.
+🌟 I have hands-on experience in Airflow, Spark, Docker, Java, Spring Boot, OAuth2.0, and Cloud Deployment.
 
 💼 Currently working as a Junior Data Engineer at Accesa, focusing on event-driven architecture and microservices.
 
